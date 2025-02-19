@@ -6,6 +6,7 @@
 * Building effective agents  https://www.anthropic.com/research/building-effective-agents
 * Explore Agent Recipes  https://www.agentrecipes.com/
 * Building a Data Visualization Agent with LangGraph Cloud   https://blog.langchain.dev/data-viz-agent/
+* agent tool use: https://www.anthropic.com/news/tool-use-ga
 
 ## Gaussian Splat
 
