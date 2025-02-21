@@ -8,6 +8,7 @@
 * Explore Agent Recipes  https://www.agentrecipes.com/
 * Building a Data Visualization Agent with LangGraph Cloud   https://blog.langchain.dev/data-viz-agent/
 * agent tool use: https://www.anthropic.com/news/tool-use-ga
+* deepseek 提示词库 https://api-docs.deepseek.com/zh-cn/prompt-library
 
 ## Gaussian Splat
 
