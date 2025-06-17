@@ -14,7 +14,8 @@
 * Multimodal RAG with Vision: From Experimentation to Implementation https://devblogs.microsoft.com/ise/multimodal-rag-with-vision/
 * Multi-Modal RAG: A Practical Guide https://gautam75.medium.com/multi-modal-rag-a-practical-guide-99b0178c4fbb
 * An Easy Introduction to Multimodal Retrieval-Augmented Generation https://developer.nvidia.com/blog/an-easy-introduction-to-multimodal-retrieval-augmented-generation/
-
+* RAG From Scratch https://github.com/langchain-ai/rag-from-scratch   https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x
+  
 ## Gaussian Splat
 
 
