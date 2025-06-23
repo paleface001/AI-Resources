@@ -25,6 +25,7 @@
   Part 7: Evaluation https://medium.com/@j13mehul/rag-part-7-evaluation-fb8134792e09
   
   
-## Gaussian Splat
+## specific areas
+* Awesome-LLM-3D  https://github.com/ActiveVisionLab/Awesome-LLM-3D
 
 
