@@ -23,7 +23,9 @@
   Part 5: Retrieval https://medium.com/@j13mehul/rag-part-5-retrieval-93ef1be7ac07
   Part 6: Prompting and Inferencing https://medium.com/@j13mehul/rag-part-6-prompting-and-inferencing-6e8657173a0e
   Part 7: Evaluation https://medium.com/@j13mehul/rag-part-7-evaluation-fb8134792e09
-  RAG - 7 indexing methods for Vector DBs + Similarity search  https://www.ai-bites.net/rag-7-indexing-methods-for-vector-dbs-similarity-search/
+  
+* indexing methods for Vector DBs + Similarity search  https://www.ai-bites.net/rag-7-indexing-methods-for-vector-dbs-similarity-search/
+* Building a RAG Router in 2025 https://medium.com/@tim_pearce/building-a-rag-router-in-2025-e0e9d99efe44
   
   
 ## specific areas
