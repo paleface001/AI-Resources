@@ -9,6 +9,7 @@
 * Building a Data Visualization Agent with LangGraph Cloud   https://blog.langchain.dev/data-viz-agent/
 * agent tool use: https://www.anthropic.com/news/tool-use-ga
 * deepseek 提示词库 https://api-docs.deepseek.com/zh-cn/prompt-library
+* langchain cookbook https://github.com/langchain-ai/langchain/tree/master/cookbook
 
 ## RAG
 * Multimodal RAG with Vision: From Experimentation to Implementation https://devblogs.microsoft.com/ise/multimodal-rag-with-vision/
