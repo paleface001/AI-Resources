@@ -32,5 +32,6 @@
 ## specific areas
 * Awesome-LLM-3D  https://github.com/ActiveVisionLab/Awesome-LLM-3D
 * [star-vector]  image2svg,text2svg  https://github.com/joanrod/star-vector
+* BlenderFusion https://blenderfusion.github.io/
 
 
