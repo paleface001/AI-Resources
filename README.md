@@ -10,6 +10,8 @@
 * agent tool use: https://www.anthropic.com/news/tool-use-ga
 * deepseek 提示词库 https://api-docs.deepseek.com/zh-cn/prompt-library
 * langchain cookbook https://github.com/langchain-ai/langchain/tree/master/cookbook
+* A Practical Guide to using Pydantic https://medium.com/@marcnealer/a-practical-guide-to-using-pydantic-8aafa7feebf6
+  
 
 ## RAG
 * Multimodal RAG with Vision: From Experimentation to Implementation https://devblogs.microsoft.com/ise/multimodal-rag-with-vision/
@@ -27,6 +29,7 @@
   
 * indexing methods for Vector DBs + Similarity search  https://www.ai-bites.net/rag-7-indexing-methods-for-vector-dbs-similarity-search/
 * Building a RAG Router in 2025 https://medium.com/@tim_pearce/building-a-rag-router-in-2025-e0e9d99efe44
+  
   
   
 ## specific areas
