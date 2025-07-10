@@ -29,6 +29,7 @@
   
 * indexing methods for Vector DBs + Similarity search  https://www.ai-bites.net/rag-7-indexing-methods-for-vector-dbs-similarity-search/
 * Building a RAG Router in 2025 https://medium.com/@tim_pearce/building-a-rag-router-in-2025-e0e9d99efe44
+* https://blog.langchain.com/semi-structured-multi-modal-rag/
   
   
   
